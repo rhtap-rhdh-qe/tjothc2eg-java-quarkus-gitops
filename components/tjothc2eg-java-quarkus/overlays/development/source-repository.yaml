@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tjothc2eg-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tjothc2eg-java-quarkus
